@@ -1,0 +1,79 @@
+{
+    "config": {
+        "port": 3000,
+        "address": "https://peach-cockroach-ve8qhr7y.ws-us16.gitpod.io",
+        "editor": {
+            "mode": "gitpod",
+            "version": "1.0.70"
+        },
+        "dirPath": "./.learn",
+        "configPath": "learn.json",
+        "outputPath": ".learn/dist",
+        "publicPath": "/preview",
+        "grading": "isolated",
+        "exercisesPath": ".learn/exercises",
+        "disableGrading": false,
+        "actions": [
+            "build",
+            "test",
+            "reset"
+        ],
+        "entries": {
+            "html": "index.html",
+            "vanillajs": "index.js",
+            "react": "app.jsx",
+            "node": "app.js",
+            "python3": "app.py",
+            "java": "app.java"
+        },
+        "translations": []
+    },
+    "slug": "product-landing-page-plain-css",
+    "title": "Product Page in plain HTML/CSS",
+    "description": "Create an eCommerce Product Landing Page using standard HTML/CSS, no bootstrap or any other css framework.",
+    "preview": "https://github.com/breatheco-de/exercise-product-landing-page-plain-css/blob/master/preview.png?raw=true",
+    "status": "published",
+    "boilerplate": "https://github.com/breatheco-de/exercise-product-landing-page-plain-css",
+    "duration": 4,
+    "difficulty": "easy",
+    "solution": "https://github.com/breatheco-de/exercise-product-landing-page-plain-css/tree/solution",
+    "technologies": [
+        "html",
+        "css",
+        "flex-box",
+        "layouts",
+        "css grid"
+    ],
+    "talents": [],
+    "video-id": "rlLCcpwMBtM",
+    "timeline": [],
+    "session": 131764722551692690,
+    "exercises": [
+        {
+            "position": 0,
+            "path": ".learn/exercises",
+            "slug": "exercises",
+            "translations": {
+                "es": "README.es.md",
+                "us": "README.md"
+            },
+            "language": null,
+            "entry": null,
+            "title": "exercises",
+            "graded": false,
+            "files": [
+                {
+                    "path": ".learn/exercises/README.es.md",
+                    "name": "README.es.md",
+                    "hidden": true
+                },
+                {
+                    "path": ".learn/exercises/README.md",
+                    "name": "README.md",
+                    "hidden": true
+                }
+            ],
+            "done": false
+        }
+    ]
+}
